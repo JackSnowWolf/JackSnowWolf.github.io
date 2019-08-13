@@ -11,7 +11,7 @@
     *August 2019 - May 2021 (expected)*  
     * The Fu Foundation School of Engineer and Applied Science  
     * Master of Science in Electrical Engineering
-* **Shanghai Jiao Tong University (SJTU)**, Shanghai, China
+* **Shanghai Jiao Tong University (SJTU)**, Shanghai, China  
     *September 2015 - August 2019*
     * UM-SJTU Joint Institute
     * Bachelor Degree in ECE; Minor in Data Science
