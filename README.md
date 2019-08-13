@@ -1,6 +1,6 @@
 # JackSnowWolf.github.io
 JackSnowWolf's personal Blog
 
-[click me!](jacksnowwolf.github.io)
+[click me!](https://jacksnowwolf.github.io/)
 
 still updating!~
