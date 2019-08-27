@@ -11,7 +11,7 @@
     *August 2019 - May 2021 (expected)*  
     * The Fu Foundation School of Engineer and Applied Science  
     * Master of Science in Electrical Engineering
-* **Shanghai Jiao Tong University (SJTU)**, Shanghai, China  
+* **Shanghai Jiao Tong University (SJTU)**, Shanghai, CN  
     *September 2015 - August 2019*
     * UM-SJTU Joint Institute
     * Bachelor Degree in ECE; Minor in Data Science
@@ -20,7 +20,7 @@
 
 ## Projects
 
-* **Graduation Design: HDR1 Video Recovering Algorithm**  
+* **Graduation Design: HDR Video Recovering Algorithm**  
     *August 2018 - December 2018*   
     Company Sponsor: OTC/SSG/Intel; Company Mentor: Zhao Juan, Intel; Academic Advisor: Long Yong
     * Used hdrcnn model to train data to transform LDR to HDR, with different data enhancements and loss
