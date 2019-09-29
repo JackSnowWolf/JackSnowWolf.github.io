@@ -92,7 +92,8 @@ added meta data of HDR10 format and corresponding BT2020 curves
 and so on to achieve an excellent model effect
 
 * **MCM/ICM: Problem B: Turnpike Toll Plaza Model Based on Queuing Theory**
-    *February 2017*
+    *February 2017*  
+    [Solution Link](doc/resource/58900_solutions.pdf)
     * Built inflow model and merging queue model to generate the incoming cars and calculate the throughput when
 vehicles exit the toll plazas
     * Designed two new toll plazas: reversible plaza and separate plaza to improve the efficiency
