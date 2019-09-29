@@ -100,7 +100,7 @@ vehicles exit the toll plazas
     
 ## Computer Skills
 * **Programming Language:** Python, C++, C, R, Java, MATLAB, Julia, SQL, Verilog.
-* **Toolkits/Frameworks:** Linux, Hadoop, Drill, Spark, Git, NumPy, pandas, TensorFlow, Matplotlib, OpenCV, LaTex
+* **Toolkits/Frameworks:** Linux, Hadoop, Drill, Spark, Git, NumPy, pandas, TensorFlow, Matplotlib, OpenCV, LaTeX
  
 ## Activities
 
