@@ -54,7 +54,7 @@ added meta data of HDR10 format and corresponding BT2020 curves
     *June 2019 - August 2019*  
     Academic advisor: Prof. Jing Liu, Prof. Manuel Charlemagne  
     [Report Link](doc/resource/ve572_project.pdf);
-    [Poster Link](doc/resource/ve572_poster.pdf)
+    [Poster Link](doc/resource/Ve572_poster.pdf)
     * Extracted songs information from 160GB MSD and preprocessed data using hadoop and drill
     * Built similar artist adjacent matrix using MapReduce in hadoop and Spark and compared two methods
     * Used Naive Bayes to guide the scaling data and investigated features inside data using clustering methods
