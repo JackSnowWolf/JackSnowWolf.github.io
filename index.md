@@ -50,11 +50,7 @@ method
     * Applied FFmpeg, OpenEXR to finish the transfer from LDR video to image and image to HDR video, and
 added meta data of HDR10 format and corresponding BT2020 curves
 
-* **Different machine-learning methods to predict popularity of
-movies using conventional and social media features**
-    *August 2019 - December 2019*  
-    [Report Link](doc/resource/EECS6690_final_report.pdf);
-    [PPT Link](doc/resource/EECS6690_presentation.pdf)
+
 
 * **Video Object Segmentation and Visualization in Front-end Using Django** 
     *August 2019 - December 2019*  
@@ -63,6 +59,13 @@ movies using conventional and social media features**
     [Midpoint PPT Link](doc/resource/EECS6893-Big-Data-Analytic%20Midpoint%20pre.pdf);
     [Final PPT Link](doc/resource/EECS6893-final_presentation.pdf)
     
+
+* **Different machine-learning methods to predict popularity of
+movies using conventional and social media features**
+    *August 2019 - December 2019*  
+    [Report Link](doc/resource/EECS6690_final_report.pdf);
+    [PPT Link](doc/resource/EECS6690_presentation.pdf)
+
     
 
 
