@@ -6,3 +6,5 @@ JackSnowWolf's personal Blog
 still updating!~
 
 [Personal Resume](doc/huchong_resume.pdf)
+
+Template: [hola](https://www.styleshout.com/free-templates/hola/)
