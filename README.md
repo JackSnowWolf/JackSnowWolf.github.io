@@ -9,7 +9,7 @@ still keep updating!~
 
 [Personal Resume](doc/huchong_resume.pdf)
 
-Template: [hola](https://www.styleshout.com/free-templates/hola/)
+This website is built by using template [hola](https://www.styleshout.com/free-templates/hola/)
 
 ## Structure
 
